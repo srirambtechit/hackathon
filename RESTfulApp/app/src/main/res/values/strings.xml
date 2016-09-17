@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RESTfulApp</string>
+    <string name="notification_title">New Offer Arrived</string>
+    <string name="notification_text">Amazon 30% offer on all electronic goods</string>
+    <string name="locationTxt">Location</string>
+</resources>
