@@ -1,5 +1,0 @@
-<resources>
-    <string name="app_name">RBSBankOffers</string>
-    <string name="notification_title">New Offer Arrived</string>
-    <string name="title_activity_permission">PermissionActivity</string>
-</resources>
