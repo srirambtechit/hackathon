@@ -1,5 +1,7 @@
 <resources>
-    <string name="app_name">RBSBankOffers</string>
+    <string name="app_name">  RBS Mobile Banking</string>
     <string name="notification_title">New Offer Arrived</string>
     <string name="title_activity_permission">PermissionActivity</string>
+    <string name="title_activity_offer_view_screen">OfferViewScreen</string>
+    <string name="action_settings">Settings</string>
 </resources>

@@ -1,0 +1,6 @@
+Hackathon Things TO DO:-
+1. Notification and RESTful Service calls how it invoked needs to test in mobile
+2. Screen designing - LoginScreen, HomeScreen, Settings, OfferScreen
+3. Notification content storage and retrival from storage
+4. Need to analyse how mobile fetching coordinates and how it is getting updating in onLocationChanged handler
+5. Notification bundle creation and fitting in UI 

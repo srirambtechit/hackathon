@@ -6,7 +6,7 @@ android {
 
     defaultConfig {
         applicationId "com.sriram.rbsbankoffers"
-        minSdkVersion 9
+        minSdkVersion 11
         targetSdkVersion 24
         versionCode 1
         versionName "1.0"
@@ -21,6 +21,7 @@ android {
             debuggable true
         }
     }
+    sourceSets { main { res.srcDirs = ['src/main/res', 'src/main/res/mipmap/rbs_ic_launcher'] } }
 }
 
 dependencies {
